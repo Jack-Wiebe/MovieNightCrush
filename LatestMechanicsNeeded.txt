@@ -1,0 +1,8 @@
+New Bug Fixes
+
+1. Refreshing the selection mechanic (not neighbor)
+2. Leaderboard
+3. Infinity levels - nothing to change!
+4. Start a new game, beat 3 levels, beat 5 levels, beat 10 levels 
+5. Delay dropdown
+6. Highlight other matches
